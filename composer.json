@@ -1,0 +1,15 @@
+{
+    "name": "b.greff/project-for-testing",
+    "authors": [
+        {
+            "name": "BorisKovFG",
+            "email": "multiallin@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/StringUtils.php"
+        ]
+    },
+    "require": {}
+}
